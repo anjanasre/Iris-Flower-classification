@@ -1,4 +1,6 @@
 Iris Flower classification
+
+
 Let's use the Logistic Rgression algorithm for classification.
 We all know about Iris Dataset, and it contains features of different flower species. Independent features in this dataset are Sepal Length, Sepal Width, Petal Length, and Petal Width. All these lengths were in centimeters. And Dependent feature, which will be the output for the model, is Species. It contains the name of the species to which that particular flower with those measurements belongs.
 
@@ -7,6 +9,8 @@ We all know about Iris Dataset, and it contains features of different flower spe
 
 
 #Logistic Regression
+
+
 Logistic Regression is a supervised machine learning model used mainly for categorical data, and it is a classification algorithm. It is one of the widely used algorithms for classification using machine learning.
 Logistic Regression is used to find the relationship between dependent and independent variables. This is done by using a logistic regression equation. This is a very easy to implement, understand, and also easy method to train the model.
 
