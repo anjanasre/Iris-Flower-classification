@@ -12,8 +12,14 @@ Logistic Regression is used to find the relationship between dependent and indep
 
 Process for Iris Flower Classification:
 Importing basic libraries,
-imorting the data set,
+
+Importing the data set,
+
 Data Cleaning and Data Transformation,
+
 Data Viszulization,
+
 Fine Tune of algorithms,
+
+
 Model Fitting and Prediction on the test set.
